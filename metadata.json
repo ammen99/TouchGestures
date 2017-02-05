@@ -1,10 +1,10 @@
 {
-  "description": "Defines useful gestures for touchscreen devices. Touch one finger, then click with another to right click, Two finger swipe for scrolling and three finger click for showing up caribou onscreen keyboard.", 
-  "name": "TouchGestures", 
+  "description": "Enables three-finger tap to show up onscreen keyboard in Gnome Shell",
+  "name": "Touch Gestures",
   "shell-version": [
     "3.22"
-  ], 
-  "url": "", 
-  "uuid": "touch-gestures@ilex.morgenstern", 
+  ],
+  "url": "",
+  "uuid": "touch-gestures@ilex.morgenstern",
   "version": 1
 }
